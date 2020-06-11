@@ -1,0 +1,2 @@
+npm install generate-changelog
+changelog generate
