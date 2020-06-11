@@ -1,6 +1,6 @@
 # How to make a changelog:
   
-1. The first and the most simple option:
+1. The first and the most simple way:  
 `git log --pretty="- %s" > CHANGELOG.md`
 
 ### Sources and additional information:
